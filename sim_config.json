@@ -1,0 +1,45 @@
+{
+  "coinbasepro": {
+    "api_url": "https://api.pro.coinbase.com",
+    "config": {
+      "sim": "fast",
+      "sim-startdate": "2021-01-01",
+      "sim-enddate": "now",
+      "autorestart": 1,
+      "base_currency": "ADA",
+      "disablebullonly": 1,
+      "disablebuyelderray": 1,
+      "disablebuyema": 0,
+      "disablebuymacd": 0,
+      "disablebuynearhigh": 1,
+      "disablebuyobv": 1,
+      "disablefailsafefibonaccilow": 1,
+      "disablelog": 0,
+      "disabletracker": 1,
+      "disableprofitbankreversal": 1,
+      "enableinsufficientfundslogging": 1,
+      "enabletelegrambotcontrol": 1,
+      "live": 0,
+      "logbuysellinjson": 1,
+      "nobuynearhighpcnt": 4,
+      "nosellmaxpcnt": 3,
+      "nosellminpcnt": -3,
+      "quote_currency": "GBP",
+      "sellatloss": 1,
+      "sellatresistance": 0,
+      "selllowerpcnt": -12,
+      "trailingbuypcnt": 1,
+      "trailingstoploss": -1.5,
+      "trailingstoplosstrigger": 6,
+      "websocket": 0
+
+    },
+    "api_key": "48dbc22778be3adbd9607c2059f082c4",
+    "api_secret": "W0oZEwoca+b6yR1LUoFJ7aAKKWV9YbjARX549sbMrD3t/olZGGRYvi3gP/8yqH2QIS63MaZJkeG7HqoVH1327g==",
+    "api_passphrase": "5cbb73qlgls"
+  },
+  "telegram": {
+    "token": "5032779812:AAF-PFSjiDpuXuN5qcajD0AtuXFGQ64ADoE",
+    "client_id": "5020420627"
+  }
+}
