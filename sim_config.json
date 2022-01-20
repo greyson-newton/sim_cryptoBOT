@@ -5,6 +5,7 @@
       "sim": "fast",
       "sim-startdate": "2021-01-01",
       "sim-enddate": "now",
+      "sim-sample":1000,
       "autorestart": 1,
       "base_currency": "ADA",
       "disablebullonly": 1,
